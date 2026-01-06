@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: skyblue;
+    color: #333;
+    margin: 10px;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+/* External Style for Paragraphs */
+.external-p {
+    line-height: 1.2;
+    margin: 10px 0;
+    border-left: 3px solid green;
+    padding-left: 5px;
+}
+
+/* Style for the link group */
+.links a {
+    color: green;
+    text-decoration: underline;
+    margin: 0 5px;
+}
+
+img {
+    margin: 5px;
+}
